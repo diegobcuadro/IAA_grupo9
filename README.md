@@ -11,5 +11,5 @@ Integrantes:
 
 ## Labs:
 Los labs estan disponibles en las siguientes notebooks: 
- * [Lab1](Lab_1_G9.ipynb)
- * [Lab2](Lab_2_G9.ipynb)
+ * [Lab 1](Lab_1_G9.ipynb)
+ * [Lab 2](Lab_2_G9.ipynb)
